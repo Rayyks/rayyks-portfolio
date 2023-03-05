@@ -1,27 +1,13 @@
 <a name="readme-top"></a>
 
   <!-- PROJECT SHIELDS -->
-
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-  <!-- PROJECT LOGO -->
-
-  <br />
   <div align="center">
-    <a href="https://github.com/mdyeates/my-portfolio">
-      <img src="src/images/logo.svg" alt="Logo" width="200" height="200">
-    </a>
     <h3 align="center">My React Portfolio</h3>
     <p align="center">
     <br/>
 This portfolio application was built using React and is designed to showcase my projects. It features a dynamic and visually appealing layout. <br/>
       <br/>
-      Built by: Michael Yeates
+      Built by: Rayyand Kananda Syahputra
       <br/>
       <br/>
       <a href="https://github.com/mdyeates/my-portfolio"><strong>Explore the docs »</strong></a>
@@ -183,4 +169,5 @@ Project Link: [https://github.com/mdyeates/my-portfolio](https://github.com/mdye
 [responsive-screenshot2]: src/images/mobile-screenshot2.png
 [responsive-screenshot3]: src/images/mobile-screenshot3.png
 [responsive-screenshot4]: src/images/mobile-screenshot4.png
+
 # rayyks-portfolio
