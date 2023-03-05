@@ -151,12 +151,12 @@ Project Link: [https://github.com/Rayyks/rayyks-portfolio](https://github.com/Ra
   <!-- UPDATE PLACEHOLDER IMAGES HERE -->
 
 [product-screenshot]: src/images/screenshot1.png
-[product-screenshot2]: src/images/screenshot2.png
-[product-screenshot3]: src/images/screenshot3.png
-[product-screenshot4]: src/images/screenshot4.png
-[responsive-screenshot]: src/images/mobile-screenshot.png
-[responsive-screenshot2]: src/images/mobile-screenshot2.png
-[responsive-screenshot3]: src/images/mobile-screenshot3.png
-[responsive-screenshot4]: src/images/mobile-screenshot4.png
+[product-screenshot2]: src/images/screenshot22.png
+[product-screenshot3]: src/images/screenshot33.png
+[product-screenshot4]: src/images/screenshot44.png
+[responsive-screenshot]: src/images/mobile-screenshot1.png
+[responsive-screenshot2]: src/images/mobile-screenshot22.png
+[responsive-screenshot3]: src/images/mobile-screenshot33.png
+[responsive-screenshot4]: src/images/mobile-screenshot44.png
 
 # rayyks-portfolio
