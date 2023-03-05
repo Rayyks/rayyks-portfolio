@@ -150,7 +150,7 @@ Project Link: [https://github.com/Rayyks/rayyks-portfolio](https://github.com/Ra
 
   <!-- UPDATE PLACEHOLDER IMAGES HERE -->
 
-[product-screenshot]: src/images/screenshot.png
+[product-screenshot]: src/images/screenshot1.png
 [product-screenshot2]: src/images/screenshot2.png
 [product-screenshot3]: src/images/screenshot3.png
 [product-screenshot4]: src/images/screenshot4.png
