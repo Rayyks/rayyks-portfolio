@@ -32,11 +32,11 @@
 
   {
     "title": "To Do ",
-    "image": "./projectImages/planner.png",
+    "image": "./projectImages/team.png",
     "technologies": "React | Framer | CSS | TailwindCSS",
     "description": "Make your activities more structured and neat, you can make the activities you want to do and can change your activities and delete them when it's finished!",
-    "github": "#",
-    "deployed": "#",
+    "github": "https://github.com/Rayyks/todo-app",
+    "deployed": "https://this-my-todo.netlify.app/",
     "bgcolor": "#3e67ff",
     "id": "6"
   }
