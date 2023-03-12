@@ -24,8 +24,8 @@
     "image": "./projectImages/P1.png",
     "description": "The Movie project is still on progress 👨‍💻",
     "technologies": "React | Framer | CSS | TailwindCSS | Node",
-    "github": "#",
-    "deployed": "#",
+    "github": "https://github.com/Rayyks/go-watch",
+    "deployed": "https://movie-rayyks.vercel.app/",
     "bgcolor": "#ffcc33",
     "id": "1"
   },
