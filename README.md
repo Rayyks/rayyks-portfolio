@@ -13,7 +13,7 @@ This portfolio application was built using React and is designed to showcase my 
       <a href="https://github.com/Rayyks/rayyks-portfolio"><strong>Explore the docs »</strong></a>
       <br/>
       <br/>
-      <a href="#">View Live Website</a>
+      <a href="https://rayyks.netlify.app">View Live Website</a>
       ·
       <a href="https://github.com/Rayyks/rayyks-portfolio/issues">Report Bug</a>
       ·
