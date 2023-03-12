@@ -27,7 +27,7 @@ function App() {
   };
 
   return (
-    <div className="App">
+    <>
       {loading ? (
         <Loader />
       ) : (
@@ -36,7 +36,7 @@ function App() {
           <AnimatedRoutes personalDetails={personalDetails} />
         </>
       )}
-    </div>
+    </>
   );
 }
 
