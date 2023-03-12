@@ -1,7 +1,21 @@
+import { useState, useEffect } from "react";
+
+// Components
 import Header from "./components/Header";
 import AnimatedRoutes from "./components/AnimatedRoutes";
+import Loader from "./components/Loader";
 
 function App() {
+  const [loading, setLoading] = useState(false);
+
+  useEffect(() => {
+    setLoading(true);
+    <Loader />;
+    setTimeout(() => {
+      setLoading(false);
+    }, 2500);
+  }, []);
+
   const personalDetails = {
     name: "Rayyand Kananda",
     location: "Batam, Indonesia",
@@ -13,10 +27,16 @@ function App() {
   };
 
   return (
-    <>
-      <Header />
-      <AnimatedRoutes personalDetails={personalDetails} />
-    </>
+    <div className="App">
+      {loading ? (
+        <Loader />
+      ) : (
+        <>
+          <Header />
+          <AnimatedRoutes personalDetails={personalDetails} />
+        </>
+      )}
+    </div>
   );
 }
 
