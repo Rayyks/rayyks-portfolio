@@ -12,10 +12,10 @@
   {
     "title": "Quiz",
     "image": "./projectImages/quiz.png",
-    "technologies": "JS | HTML | CSS",
+    "technologies": "React | CSS",
     "description": "Quiz project is still on progress 👨‍💻",
-    "github": "#",
-    "deployed": "#",
+    "github": "https://github.com/Rayyks/quiz-app",
+    "deployed": "https://lets-quiz.netlify.app",
     "bgcolor": "#f85781",
     "id": "4"
   },
